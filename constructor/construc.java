@@ -17,6 +17,7 @@ class Student{
         System.out.println("Parameterized constructor is called");
     }
 
+    // constructor overloading
     Student(int id, String name, int age){
         System.out.println("id is : " + id);
         System.out.println("name is : " + name);
